@@ -7,4 +7,3 @@ This repository is for my Introduction to GitHub for Version Control assignment.
 
 ## Author
 Brian Ochieng
-
